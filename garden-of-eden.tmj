@@ -1179,23 +1179,6 @@
                  "y":-13.1348511383538
                 }, 
                 {
-                 "height":31.5796700153323,
-                 "id":908,
-                 "name":"exit-to-colearnco",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"https:\/\/world.colearnco.org\/@\/colearnco#entry-from=garden-of-eden"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":63.8458545962151,
-                 "x":896.130346232179,
-                 "y":1952.21858623767
-                }, 
-                {
                  "height":184.854426646326,
                  "id":909,
                  "name":"jungle",
@@ -2462,7 +2445,7 @@
          "value":"This map is the sole property of 100 Roads Inc. All rights are reserved by 100 Roads inc. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Inc."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.2",
+ "tiledversion":"1.11.0",
  "tileheight":32,
  "tilesets":[
         {
